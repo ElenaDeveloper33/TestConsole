@@ -1,0 +1,7 @@
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Elena\Desktop\Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
